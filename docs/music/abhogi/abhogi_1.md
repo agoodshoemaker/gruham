@@ -1,3 +1,10 @@
+---
+hide:
+  - toc
+---
+
+
+
 # Abhogi Varnam
 
 ## Pallavi
@@ -16,7 +23,7 @@ $$
 \begin{array}{}
 R & G & M & G & \quad\quad & , & M & R & G & \quad\quad & S & R & , & D  & \quad\quad & S & R & G & M & |\\
 \text{Ee} & - & - & - & \quad\quad & - & - & \text{la} & - & \quad\quad & - & - & - & \text{gu}  & \quad\quad & - & - & - & - & ||\\ \\
-D & M & D & \boldsymbol{S} & \quad\quad & , & \boldsymbol{S} & D & \boldsymbol{S} & \quad\quad & D & M & , & G  & \quad\quad & M & G & R & S & |\\
+D & M & D & \textbf{S} & \quad\quad & , & \textbf{S} & D & \textbf{S} & \quad\quad & D & M & , & G  & \quad\quad & M & G & R & S & |\\
 \text{Je} & - & - & - & \quad\quad & - & - & \text{se} & - & \quad\quad & - & - & - & \text{vu}  & \quad\quad & - &  \text{ra} & - & - & ||\\
 \end{array}
 $$

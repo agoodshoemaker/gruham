@@ -11,4 +11,4 @@ A recursive method to delete a node from a linked list has three questions:
 
 The flowchart given below encodes the relationship among these questions.
 
-![](../../../assets/images/linked_list_1.png)
+![](../../assets/images/linked_list_1.png)
